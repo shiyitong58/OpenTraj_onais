@@ -1,6 +1,9 @@
 
 # Author: Pat Zhang
 # Email: bingqing.zhang.18@ucl.ac.uk
+# 衡量行人轨迹数据中的碰撞风险指标
+# 包括：DCA距离最近接近距离、TTCA最短时间到碰撞、碰撞能量collision energy潜在碰撞风险的强度
+# 对应图7
 import sys
 import os
 import math
