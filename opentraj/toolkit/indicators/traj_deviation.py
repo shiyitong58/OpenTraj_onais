@@ -1,6 +1,7 @@
 # Author: Javad Amirian
 # Email: amiryan.j@gmail.com
-
+# 分析各数据集中目标的轨迹偏离线性预测的角度变化，从而反应轨迹曲折性与方向变化规律
+# 输出包括：每个数据集对应的偏角统计图 汇总生成的traj_deviation图表
 import os
 import sys
 import numpy as np
