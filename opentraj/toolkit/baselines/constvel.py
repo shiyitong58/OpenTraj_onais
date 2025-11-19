@@ -1,6 +1,7 @@
 # Author: Javad Amirian
 # Email: amiryan.j@gmail.com
 
+# 基线模型：匀速直线预测
 """
 Constant-Velocity Prediction Baseline
 """
