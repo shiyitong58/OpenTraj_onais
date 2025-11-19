@@ -1,6 +1,7 @@
 # Author: Javad Amirian
 # Email: amiryan.j@gmail.com
-
+# 计算行人在轨迹数据中的路径效率，并对多个数据集结果进行可视化
+# 衡量一个人实际行走路径与理论最短路径（直线）之间的偏差程度
 import os
 import numpy as np
 import pandas as pd
