@@ -1,5 +1,8 @@
 # Author: Javad Amirian
 # Email: amiryan.j@gmail.com
+# 统计与分析轨迹数据集基本信息
+# 计算每个数据集：整体规模、时间跨度、行人数、轨迹长度、子轨迹（trajlet）
+# 对应表1
 
 import sys
 import numpy as np
