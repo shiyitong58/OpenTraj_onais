@@ -1,6 +1,8 @@
 # Author: Franciscon Valente Castro
 # Email: francisco.valente@cimat.mx
-
+# 计算和分析轨迹数据 多模态性 和 熵 特征的综合分析脚本
+# 衡量：1、行为模式是否多样（存在几个聚类）；2、运动不确定性有多大（熵的大小）
+# 输出：包含 聚类数分布 和 熵分布 的对比图
 import os
 import sys
 import math
