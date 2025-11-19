@@ -1,6 +1,7 @@
 # Author: Pat Zhang
 # Email: bingqing.zhang.18@ucl.ac.uk
-
+# 分析行人轨迹数据中人群密度分布
+# 计算并对比 全局密度 和 局部密度，并生成密度分布可视化图表（对应图8）
 import sys
 import os
 import math
