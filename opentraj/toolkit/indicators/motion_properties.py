@@ -1,5 +1,6 @@
 # Author: Javad Amirian
 # Email: amiryan.j@gmail.com
+# 分析多轨迹数据集中行人的运动特征，包括速度、加速度以及他们的变化特性，并将结果可视化对比
 import os
 import sys
 import numpy as np
