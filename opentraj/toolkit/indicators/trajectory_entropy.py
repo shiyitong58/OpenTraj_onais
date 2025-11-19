@@ -1,6 +1,8 @@
 # Author: Juan Baldelomar
 # Email: juan.baldelomar@cimat.mx
-
+# 计算与可视化轨迹熵的脚本
+# 基于多轨迹数据集，通过核密度估计与加权采样来计算轨迹的熵值
+# 用以衡量轨迹集的不确定性和多样性
 import os
 import sys
 import math
