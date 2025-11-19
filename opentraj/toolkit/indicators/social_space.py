@@ -1,6 +1,8 @@
 # Author: Javad Amirian
 # Email: amiryan.j@gmail.com
-
+# 计算行人在轨迹数据中的社会空间指标，并对不同数据集之间的该指标分布进行可视化比较
+# 计算每个行人在其运动轨迹中与他人保持的最小距离，并统计这种个人空间分布
+# 反应人群密度特征、社会距离偏好、行人之间的最小安全间隔
 
 import sys
 import pandas as pd
